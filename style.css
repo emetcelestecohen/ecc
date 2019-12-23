@@ -1,0 +1,15 @@
+#cloudsBackground {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.content {
+	position: relative;
+  bottom: 0;
+  color: #f1f1f1;
+  width: 33%;
+  padding: 20px;
+}
