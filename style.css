@@ -13,3 +13,17 @@
   width: 33%;
   padding: 20px;
 }
+
+@media print {
+  #cloudsBackground {
+    display: none;
+  }
+
+  .content {
+  	position: relative;
+    bottom: 0;
+    color: #000000;
+    width: 33%;
+    padding: 20px;
+  }
+}
